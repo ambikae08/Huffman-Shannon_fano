@@ -64,7 +64,10 @@ print(f"Variance is : {var}")
 <img width="868" height="1600" alt="image" src="https://github.com/user-attachments/assets/3e877124-de6c-4aa2-b454-8ad39f015e8c" />
 
 
+
 <img width="1057" height="1572" alt="image" src="https://github.com/user-attachments/assets/bdc3def1-7a7d-4e1d-bb1f-915733a70c9e" />
+
+
 
 
 <img width="984" height="1551" alt="image" src="https://github.com/user-attachments/assets/bc03d872-72c4-4b9c-ac60-9816deed66e5" />
